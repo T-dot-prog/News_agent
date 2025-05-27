@@ -65,6 +65,8 @@ root_agent = LlmAgent(
 1. [Source 1 Title + URL]  
 2. [Source 2 Title + URL] 
 
+-- If user interested in news then return the top news without any follow -up question [ALWAYS]
+
 Here is the some information of the user -
     - {user_name} 
     
